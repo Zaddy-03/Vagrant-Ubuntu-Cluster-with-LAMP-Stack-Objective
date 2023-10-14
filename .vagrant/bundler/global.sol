@@ -1,0 +1,1 @@
+{"dependencies":[["vagrant-proxyconf",["= 2.0.10"]]],"checksum":"a97b95799298059b7076f07c798cb35c38322d7f51712f1db4b3bf6d6b9f0d1b","vagrant_version":"2.3.7"}
